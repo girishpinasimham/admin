@@ -7,7 +7,7 @@ public class Loginpage {
 	public void m1()
 	{
 	
-	
+		System.out.println("loginpage");
 System.out.println("loginpage");
 
 	}
