@@ -1,5 +1,15 @@
 package com.pack.pages;
 
 public class Loginpage {
+	
+	
+	
+	public void m1()
+	{
+	
+	
+System.out.println("loginpage");
+
+	}
 
 }
