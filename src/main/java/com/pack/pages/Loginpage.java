@@ -16,7 +16,7 @@ public class Loginpage {
 	public void m2()
 	{
 	
-	
+	System.out.print("adasdasdadasdasd");
 
 
 
